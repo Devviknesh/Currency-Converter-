@@ -12,10 +12,6 @@ Real-time exchange rates (via an API or manually set rates).
 
 User-friendly interface for input and output.
 
-Supports multiple currency formats.
-
-Technologies Used
-
 Frontend: HTML, CSS, JavaScript
 
 Backend: Node.js (Optional, if API is used)
