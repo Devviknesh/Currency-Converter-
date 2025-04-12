@@ -8,7 +8,8 @@ Features
 
 Convert between multiple currencies.
 
-Real-time exchange rates (via an API or manually set rates).
+Real-time exchange rates .
+
 
 User-friendly interface for input and output.
 
