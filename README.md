@@ -14,12 +14,6 @@ Backend: Node.js (Optional, if API is used)
 
 API: Exchange rate API (e.g., OpenExchangeRates, Forex API)
 
-Installation
-
-Prerequisites
-
-Node.js (if using a backend)
-
 An API key for currency exchange rates (if using an API)
 
 Steps
