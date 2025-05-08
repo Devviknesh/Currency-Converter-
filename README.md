@@ -6,7 +6,7 @@ The Currency Converter is a simple application that allows users to convert one 
 
 Features
 
-Convert between multiple currenciesriendly interface for input and output.
+Convert between multiple currenciesriendly  for input and output.
 
 Frontend: HTML, CSS, JavaScript
 
