@@ -4,8 +4,6 @@ Overview
 
 The Currency Converter is a simple application that allows users to convert one currency to another based on real-time exchange rates. The tool is useful for travelers, traders, and financial analysts who need quick currency conversions.
 
-Features
-
 Convert between multiple currenciesriendly  for input and output.
 
 Frontend: HTML, CSS, JavaScript
