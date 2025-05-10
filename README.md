@@ -14,8 +14,6 @@ API: Exchange rate API (e.g., OpenExchangeRates, Forex API)
 
 An API key for currency exchange rates (if using an API)
 
-Clone the Repository
-
 git clone https://github.com/yourusername/currency-converter.git
 cd currency-converter
 
