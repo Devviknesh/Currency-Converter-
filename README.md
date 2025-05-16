@@ -18,8 +18,6 @@ cd currency-converter
 
 Install Dependencies (if using a backend)
 
-npm install
-
 Run the Application
 
 If using a backend:
