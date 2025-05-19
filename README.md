@@ -22,8 +22,6 @@ Run the Application
 
 If using a backend:
 
-node server.js
-
 If using only frontend: Open index.html in a browser.
 
 Usage
