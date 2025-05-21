@@ -8,7 +8,7 @@ Convert between multiple currenciesriendly  for input and output.
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js 
+Backend:
 API: Exchange rate API (e.g., OpenExchangeRates, Forex API)
 
 An API key for currency exchange rates (if using API)
